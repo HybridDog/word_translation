@@ -1,6 +1,6 @@
 local time_load_start = os.clock()
 
-local language = "de"
+local language = minetest.setting_get("language")
 
 if io.open(minetest.get_modpath("word_translation").."/".. language ..".lua") then
 	dofile(minetest.get_modpath("word_translation").."/".. language ..".lua")
