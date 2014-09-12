@@ -1,4 +1,9 @@
 tmp = {
+	["Wet"] = "nasser",
+	["Young"] = "junger",
+	["(bottom)"] = "(Unterseite)",
+	["Transition"] = "Übergang",
+	["Siwtonic"] = "Siwton",
 	["Accelerating"] = "beschleunigendes",
 	["Acid"] = "saures",
 	["Acorn"] = "Eichel",
@@ -27,6 +32,7 @@ tmp = {
 	["Bag"] = "Tasche",
 	["Bale"] = "Ballen",
 	["Barbed"] = "stacheliger",
+	["Bark"] = "Rinde",
 	["Bars"] = "Gitter",
 	["base"] = "Basis",
 	["Base"] = "Basis",
